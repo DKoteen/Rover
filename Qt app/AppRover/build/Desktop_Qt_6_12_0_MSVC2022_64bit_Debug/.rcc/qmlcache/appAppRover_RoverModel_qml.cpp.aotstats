@@ -1,0 +1,135 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "scale",
+                            "line": 9,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "position",
+                            "line": 21,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "scale",
+                            "line": 22,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "position",
+                            "line": 33,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "scale",
+                            "line": 35,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "position",
+                            "line": 46,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "scale",
+                            "line": 48,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "position",
+                            "line": 59,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "scale",
+                            "line": 60,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "position",
+                            "line": 71,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "scale",
+                            "line": 72,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "position",
+                            "line": 80,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "scale",
+                            "line": 81,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "position",
+                            "line": 89,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "scale",
+                            "line": 90,
+                            "message": "Type GlobalObject::Qt with type Qt does not have a property vector3d for calling"
+                        }
+                    ],
+                    "filePath": "C:/Rover/Qt app/AppRover/RoverModel.qml"
+                }
+            ],
+            "moduleId": "AppRover(appAppRover)"
+        }
+    ]
+}

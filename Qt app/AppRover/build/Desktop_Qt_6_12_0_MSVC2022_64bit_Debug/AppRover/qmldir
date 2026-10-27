@@ -1,0 +1,7 @@
+module AppRover
+typeinfo appAppRover.qmltypes
+prefer :/qt/qml/AppRover/
+Main 254.0 Main.qml
+RoverModel 254.0 RoverModel.qml
+depends QtQuick
+

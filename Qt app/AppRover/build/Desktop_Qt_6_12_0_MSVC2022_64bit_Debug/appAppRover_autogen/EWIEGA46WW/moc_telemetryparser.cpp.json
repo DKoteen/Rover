@@ -1,0 +1,41 @@
+{
+    "classes": [
+        {
+            "className": "TelemetryParser",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "TelemetryParser",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "roll",
+                            "type": "float"
+                        },
+                        {
+                            "name": "pitch",
+                            "type": "float"
+                        },
+                        {
+                            "name": "yaw",
+                            "type": "float"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 15,
+                    "name": "attitudeReceived",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "telemetryparser.h",
+    "outputRevision": 69
+}

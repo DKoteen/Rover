@@ -1,0 +1,160 @@
+[
+    {
+        "classes": [
+            {
+                "className": "RoverController",
+                "lineNumber": 6,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "roll",
+                                "type": "float"
+                            },
+                            {
+                                "name": "pitch",
+                                "type": "float"
+                            },
+                            {
+                                "name": "yaw",
+                                "type": "float"
+                            }
+                        ],
+                        "index": 3,
+                        "lineNumber": 16,
+                        "name": "setAttitude",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "lineNumber": 9,
+                        "name": "roll_qml",
+                        "notify": "rollChanged",
+                        "override": false,
+                        "read": "GetRoll",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "float",
+                        "user": false,
+                        "virtual": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "lineNumber": 10,
+                        "name": "pitch_qml",
+                        "notify": "pitchChanged",
+                        "override": false,
+                        "read": "GetPitch",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "float",
+                        "user": false,
+                        "virtual": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "lineNumber": 11,
+                        "name": "yaw_qml",
+                        "notify": "yawChanged",
+                        "override": false,
+                        "read": "GetYaw",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "float",
+                        "user": false,
+                        "virtual": false
+                    }
+                ],
+                "qualifiedClassName": "RoverController",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 23,
+                        "name": "rollChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "lineNumber": 24,
+                        "name": "pitchChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "lineNumber": 25,
+                        "name": "yawChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "rovercontroller.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "TelemetryParser",
+                "lineNumber": 6,
+                "object": true,
+                "qualifiedClassName": "TelemetryParser",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "roll",
+                                "type": "float"
+                            },
+                            {
+                                "name": "pitch",
+                                "type": "float"
+                            },
+                            {
+                                "name": "yaw",
+                                "type": "float"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 15,
+                        "name": "attitudeReceived",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "telemetryparser.h",
+        "outputRevision": 69
+    }
+]

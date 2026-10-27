@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/AppRover/">
+    <file alias="Main.qml">C:/Rover/Qt app/AppRover/Main.qml</file>
+    <file alias="RoverModel.qml">C:/Rover/Qt app/AppRover/RoverModel.qml</file>
+  </qresource>
+</RCC>
+
