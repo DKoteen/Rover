@@ -156,5 +156,38 @@
         ],
         "inputFile": "telemetryparser.h",
         "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "UdpConnection",
+                "lineNumber": 7,
+                "object": true,
+                "qualifiedClassName": "UdpConnection",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "data",
+                                "type": "QByteArray"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 16,
+                        "name": "dataReceived",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "udpconnection.h",
+        "outputRevision": 69
     }
 ]

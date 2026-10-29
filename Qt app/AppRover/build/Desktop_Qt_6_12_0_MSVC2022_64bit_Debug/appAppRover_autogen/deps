@@ -11,47 +11,49 @@ appAppRover_autogen/timestamp: \
 	C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.26100.0/ucrt/stddef.h \
 	C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.26100.0/ucrt/stdlib.h \
 	C:/Program\ Files\ (x86)/Windows\ Kits/10/Include/10.0.26100.0/ucrt/string.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/algorithm \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/array \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/atomic \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/chrono \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/cmath \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/concurrencysal.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/cstddef \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/cstdint \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/cstring \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/functional \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/initializer_list \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/iterator \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/limits \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/limits.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/list \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/map \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/memory \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/new \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/numeric \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/optional \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/sal.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/stdarg.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/stdbool.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/string \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/string_view \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/tuple \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/type_traits \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/utility \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/vadefs.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/variant \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/vcruntime.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/vcruntime_string.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/vector \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/version \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/yvals.h \
-	C:/Program\ Files/Microsoft\ Visual\ Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/yvals_core.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/algorithm \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/array \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/atomic \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/cassert \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/chrono \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/cmath \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/concurrencysal.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/cstddef \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/cstdint \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/cstring \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/functional \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/initializer_list \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/iterator \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/limits \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/limits.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/list \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/map \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/memory \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/new \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/numeric \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/optional \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/sal.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/stdarg.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/stdbool.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/string \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/string_view \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/tuple \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/type_traits \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/utility \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/vadefs.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/variant \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/vcruntime.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/vcruntime_string.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/vector \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/version \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/yvals.h \
+	C:/Program\ Files/Microsoft\ Visual\ Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/yvals_core.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/QByteArray \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/QObject \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/q17memory.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/q20bit.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/q20functional.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtCore/q20iterator.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/q20memory.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/q20type_traits.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/q23type_traits.h \
@@ -92,6 +94,7 @@ appAppRover_autogen/timestamp: \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qglobal.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qglobalstatic.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qhashfunctions.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qiodevice.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qiodevicebase.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qiterable.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qiterator.h \
@@ -115,6 +118,8 @@ appAppRover_autogen/timestamp: \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qrefcount.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qscopedpointer.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qscopeguard.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qshareddata.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qspan.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qstdlibdetection.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qstring.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qstringalgorithms.h \
@@ -154,6 +159,13 @@ appAppRover_autogen/timestamp: \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qversiontagging.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qxptype_traits.h \
 	C:/Qt/6.12.0/msvc2022_64/include/QtCore/qyieldcpu.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtNetwork/QUdpSocket \
+	C:/Qt/6.12.0/msvc2022_64/include/QtNetwork/qabstractsocket.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtNetwork/qhostaddress.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtNetwork/qtnetwork-config.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtNetwork/qtnetworkexports.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtNetwork/qtnetworkglobal.h \
+	C:/Qt/6.12.0/msvc2022_64/include/QtNetwork/qudpsocket.h \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6/FindWrapAtomic.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6/Qt6Config.cmake \
@@ -326,12 +338,6 @@ appAppRover_autogen/timestamp: \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargetsPrecheck.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginAdditionalTargetInfo.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginConfig.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets-debug.cmake \
@@ -496,24 +502,6 @@ appAppRover_autogen/timestamp: \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6SensorsQuickpluginTargets-relwithdebinfo.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6SensorsQuickpluginTargets.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6SensorsQuickpluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargetsPrecheck.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6canvas2dpluginAdditionalTargetInfo.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6canvas2dpluginConfig.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6canvas2dpluginTargets-debug.cmake \
@@ -664,12 +652,6 @@ appAppRover_autogen/timestamp: \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagepluginTargets-relwithdebinfo.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagepluginTargets.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagepluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2AdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Config.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2TargetsPrecheck.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphs2dimplpluginAdditionalTargetInfo.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphs2dimplpluginConfig.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphs2dimplpluginTargets-debug.cmake \
@@ -880,84 +862,6 @@ appAppRover_autogen/timestamp: \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets-relwithdebinfo.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargetsPrecheck.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginAdditionalTargetInfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginConfig.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets-debug.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets-relwithdebinfo.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets.cmake \
-	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargetsPrecheck.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudiopluginAdditionalTargetInfo.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudiopluginConfig.cmake \
 	C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudiopluginTargets-debug.cmake \
@@ -1301,4 +1205,6 @@ appAppRover_autogen/timestamp: \
 	C:/Rover/Qt\ app/AppRover/roverstate.h \
 	C:/Rover/Qt\ app/AppRover/telemetryparser.cpp \
 	C:/Rover/Qt\ app/AppRover/telemetryparser.h \
+	C:/Rover/Qt\ app/AppRover/udpconnection.cpp \
+	C:/Rover/Qt\ app/AppRover/udpconnection.h \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

@@ -34,7 +34,7 @@
 			{
 				"command" : 1,
 				"file" : 1,
-				"line" : 1055,
+				"line" : 1049,
 				"parent" : 2
 			},
 			{
@@ -46,7 +46,7 @@
 			{
 				"command" : 1,
 				"file" : 1,
-				"line" : 1049,
+				"line" : 1055,
 				"parent" : 2
 			},
 			{
@@ -69,11 +69,11 @@
 		},
 		{
 			"backtrace" : 4,
-			"id" : "appAppRover_copy_res::@6890427a1f51a3e7e1df"
+			"id" : "appAppRover_copy_qml::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 6,
-			"id" : "appAppRover_copy_qml::@6890427a1f51a3e7e1df"
+			"id" : "appAppRover_copy_res::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 0,

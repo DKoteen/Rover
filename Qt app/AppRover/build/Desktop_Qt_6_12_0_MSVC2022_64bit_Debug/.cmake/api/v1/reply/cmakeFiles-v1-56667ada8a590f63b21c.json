@@ -1188,35 +1188,6 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
 			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginConfig.cmake"
 		},
 		{
@@ -2175,93 +2146,6 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
 			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6canvas2dpluginConfig.cmake"
 		},
 		{
@@ -2984,35 +2868,6 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagepluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Config.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2TargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2AdditionalTargetInfo.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -4031,383 +3886,6 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets-debug.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets-relwithdebinfo.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginAdditionalTargetInfo.cmake"
-		},
-		{
-			"isExternal" : true,
 			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudiopluginConfig.cmake"
 		},
 		{
@@ -4764,45 +4242,6 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6VirtualKeyboardpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
 			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6canvas2dpluginConfig.cmake"
 		},
 		{
@@ -5125,19 +4564,6 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagepluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Config.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2TargetsPrecheck.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -5593,175 +5019,6 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargetsPrecheck.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargetsPrecheck.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -6869,6 +6126,39 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Quick3D/Qt6Quick3DVersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Network/Qt6NetworkTargetsPrecheck.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Network/Qt6NetworkPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessAliasTargets.cmake"
 		},
 		{
 			"isExternal" : true,

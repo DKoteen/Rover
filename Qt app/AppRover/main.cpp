@@ -1,51 +1,35 @@
+
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
-#include <QSerialPort>
-#include <QSerialPortInfo>
 #include <QDebug>
-#include <QByteArray>
-#include "telemetryparser.h"
+
 #include "rovercontroller.h"
+#include "telemetryparser.h"
+#include "udpconnection.h"
 
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
 
-    QSerialPort serial;
     RoverController rover_controller;
-    TelemetryParser mavlink_parser;
+    TelemetryParser parser;
+    UdpConnection udp_connect;
 
-
-    serial.setPortName("COM7");
-    serial.setBaudRate(115200);
-    if (serial.open(QIODevice::ReadOnly)) {
-        qDebug() << "ESP32 connected!";
-    } else {
-        qDebug() << "Connection error:" << serial.errorString();
-    }
-
-    // QSerialPort → TelemetryParser
     QObject::connect(
-        &serial,
-        &QSerialPort::readyRead,
-        &mavlink_parser,
-        [&serial, &mavlink_parser]() {
-            QByteArray data = serial.readAll();
-            qDebug() << "readyRead:"
-                     << data.size()
-                     << "bytes:"
-                     << data;
-
-            mavlink_parser.addData(data);
-        }
+        &udp_connect,
+        &UdpConnection::dataReceived,
+        &parser,
+        &TelemetryParser::addData
         );
 
-    // TelemetryParser → RoverController
-    QObject::connect(&mavlink_parser,
-                     &TelemetryParser::attitudeReceived,
-                     &rover_controller,
-                     &RoverController::setAttitude);
+    // Парсер сообщает новые углы контроллеру
+    QObject::connect(
+        &parser,
+        &TelemetryParser::attitudeReceived,
+        &rover_controller,
+        &RoverController::setAttitude
+        );
 
     QQmlApplicationEngine engine;
 
@@ -54,13 +38,19 @@ int main(int argc, char *argv[])
         &rover_controller
         );
 
+    udp_connect.start();
+
     QObject::connect(
         &engine,
         &QQmlApplicationEngine::objectCreationFailed,
         &app,
-        []() { QCoreApplication::exit(-1); },
-        Qt::QueuedConnection);
+        []() {
+            QCoreApplication::exit(-1);
+        },
+        Qt::QueuedConnection
+        );
+
     engine.loadFromModule("AppRover", "Main");
 
-    return QGuiApplication::exec();
+    return app.exec();
 }

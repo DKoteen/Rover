@@ -651,6 +651,30 @@ telemetryparser.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAppRover.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\appAppRover.dir\telemetryparser.cpp.s
 .PHONY : telemetryparser.cpp.s
 
+udpconnection.obj: udpconnection.cpp.obj
+.PHONY : udpconnection.obj
+
+# target to build an object file
+udpconnection.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAppRover.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\appAppRover.dir\udpconnection.cpp.obj
+.PHONY : udpconnection.cpp.obj
+
+udpconnection.i: udpconnection.cpp.i
+.PHONY : udpconnection.i
+
+# target to preprocess a source file
+udpconnection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAppRover.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\appAppRover.dir\udpconnection.cpp.i
+.PHONY : udpconnection.cpp.i
+
+udpconnection.s: udpconnection.cpp.s
+.PHONY : udpconnection.s
+
+# target to generate assembly for a file
+udpconnection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAppRover.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\appAppRover.dir\udpconnection.cpp.s
+.PHONY : udpconnection.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -713,6 +737,9 @@ help:
 	@echo ... telemetryparser.obj
 	@echo ... telemetryparser.i
 	@echo ... telemetryparser.s
+	@echo ... udpconnection.obj
+	@echo ... udpconnection.i
+	@echo ... udpconnection.s
 .PHONY : help
 
 

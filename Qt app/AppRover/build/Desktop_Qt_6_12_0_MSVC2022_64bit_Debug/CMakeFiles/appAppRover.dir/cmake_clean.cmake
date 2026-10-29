@@ -30,6 +30,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/appAppRover.dir/rovercontroller.cpp.obj.d"
   "CMakeFiles/appAppRover.dir/telemetryparser.cpp.obj"
   "CMakeFiles/appAppRover.dir/telemetryparser.cpp.obj.d"
+  "CMakeFiles/appAppRover.dir/udpconnection.cpp.obj"
+  "CMakeFiles/appAppRover.dir/udpconnection.cpp.obj.d"
   "appAppRover.exe"
   "appAppRover.exe.manifest"
   "appAppRover.lib"

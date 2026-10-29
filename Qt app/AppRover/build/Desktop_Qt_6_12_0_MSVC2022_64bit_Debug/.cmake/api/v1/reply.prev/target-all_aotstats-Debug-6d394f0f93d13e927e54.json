@@ -5,8 +5,7 @@
 		"commands" : 
 		[
 			"add_custom_target",
-			"_qt_internal_deferred_aotstats_setup",
-			"add_dependencies"
+			"_qt_internal_deferred_aotstats_setup"
 		],
 		"files" : 
 		[
@@ -33,13 +32,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 1316,
-				"parent" : 2
-			},
-			{
-				"command" : 2,
-				"file" : 0,
-				"line" : 1321,
+				"line" : 1377,
 				"parent" : 2
 			}
 		]
@@ -47,8 +40,7 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 4,
-			"id" : "appAppRover_qmltyperegistration::@6890427a1f51a3e7e1df"
+			"id" : "module_appAppRover_aotstats_target::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "appAppRover_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
@@ -58,8 +50,8 @@
 	{
 		"name" : "QtInternalTargets"
 	},
-	"id" : "module_appAppRover_aotstats_target::@6890427a1f51a3e7e1df",
-	"name" : "module_appAppRover_aotstats_target",
+	"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+	"name" : "all_aotstats",
 	"paths" : 
 	{
 		"build" : ".",
@@ -85,7 +77,9 @@
 				5,
 				6,
 				7,
-				8
+				8,
+				9,
+				10
 			]
 		}
 	],
@@ -94,13 +88,19 @@
 		{
 			"backtrace" : 3,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/module_appAppRover_aotstats_target",
+			"path" : "build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/all_aotstats",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/module_appAppRover_aotstats_target.rule",
+			"path" : "build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/all_aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/all_aotstats.aotstats.rule",
 			"sourceGroupIndex" : 1
 		},
 		{
@@ -113,6 +113,12 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_RoverModel_qml.cpp.rule",
 			"sourceGroupIndex" : 1
 		},
 		{

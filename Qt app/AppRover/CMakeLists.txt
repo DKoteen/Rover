@@ -4,7 +4,7 @@ project(AppRover VERSION 0.1 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-find_package(Qt6 REQUIRED COMPONENTS Quick SerialPort Quick3D)
+find_package(Qt6 REQUIRED COMPONENTS Quick SerialPort Quick3D Network)
 
 qt_standard_project_setup(REQUIRES 6.10)
 
@@ -25,6 +25,7 @@ qt_add_qml_module(appAppRover
         SOURCES rovercontroller.h rovercontroller.cpp
         SOURCES telemetryparser.h telemetryparser.cpp
         QML_FILES RoverModel.qml
+        SOURCES udpconnection.h udpconnection.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
@@ -39,7 +40,7 @@ set_target_properties(appAppRover PROPERTIES
 )
 
 target_link_libraries(appAppRover
-    PRIVATE Qt6::Quick Qt6::SerialPort Qt6::Quick3D
+    PRIVATE Qt6::Quick Qt6::SerialPort Qt6::Quick3D Qt6::Network
 
 )
 
