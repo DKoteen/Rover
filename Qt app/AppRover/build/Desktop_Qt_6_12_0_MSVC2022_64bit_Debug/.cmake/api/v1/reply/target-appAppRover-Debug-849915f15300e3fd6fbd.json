@@ -31,12 +31,12 @@
 			"qt6_add_qml_module",
 			"qt_add_qml_module",
 			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"_qt_internal_write_deferred_qmlls_build_ini_file",
+			"_qt_internal_write_qmldir_part",
 			"_qt_internal_scan_qml_imports",
 			"_qt_internal_generate_deploy_qml_imports_script",
 			"cmake_language",
-			"_qt_internal_write_qmldir_part",
-			"_qt_internal_qml_copy_files_to_build_dir",
-			"_qt_internal_write_deferred_qmlls_build_ini_file",
 			"add_compile_definitions",
 			"project",
 			"target_include_directories",
@@ -81,8 +81,8 @@
 			"C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake",
 			"C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
 			"C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
-			"C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1246:EVAL",
 			"C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1189:EVAL",
+			"C:/Qt/6.12.0/msvc2022_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1246:EVAL",
 			"build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
 		],
 		"nodes" : 
@@ -117,7 +117,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 46,
+				"line" : 47,
 				"parent" : 0
 			},
 			{
@@ -152,7 +152,7 @@
 			{
 				"command" : 9,
 				"file" : 1,
-				"line" : 41,
+				"line" : 42,
 				"parent" : 0
 			},
 			{
@@ -530,32 +530,32 @@
 				"parent" : 79
 			},
 			{
-				"command" : 20,
-				"file" : 0,
-				"line" : 832,
-				"parent" : 8
-			},
-			{
-				"command" : 19,
-				"file" : 0,
-				"line" : 832,
-				"parent" : 81
-			},
-			{
 				"command" : 18,
 				"file" : 14,
-				"line" : 5126,
-				"parent" : 82
+				"line" : 1049,
+				"parent" : 34
 			},
 			{
 				"command" : 17,
 				"file" : 14,
-				"line" : 4911,
+				"line" : 3335,
+				"parent" : 81
+			},
+			{
+				"command" : 19,
+				"file" : 28,
+				"line" : 1,
+				"parent" : 6
+			},
+			{
+				"command" : 17,
+				"file" : 14,
+				"line" : 1474,
 				"parent" : 83
 			},
 			{
-				"command" : 21,
-				"file" : 28,
+				"command" : 20,
+				"file" : 29,
 				"line" : 2,
 				"parent" : 6
 			},
@@ -566,9 +566,9 @@
 				"parent" : 85
 			},
 			{
-				"command" : 22,
+				"command" : 18,
 				"file" : 14,
-				"line" : 1049,
+				"line" : 1055,
 				"parent" : 34
 			},
 			{
@@ -578,27 +578,27 @@
 				"parent" : 87
 			},
 			{
-				"command" : 22,
-				"file" : 14,
-				"line" : 1055,
-				"parent" : 34
+				"command" : 23,
+				"file" : 0,
+				"line" : 832,
+				"parent" : 8
 			},
 			{
-				"command" : 17,
-				"file" : 14,
-				"line" : 3335,
+				"command" : 22,
+				"file" : 0,
+				"line" : 832,
 				"parent" : 89
 			},
 			{
-				"command" : 23,
-				"file" : 29,
-				"line" : 1,
-				"parent" : 6
+				"command" : 21,
+				"file" : 14,
+				"line" : 5126,
+				"parent" : 90
 			},
 			{
 				"command" : 17,
 				"file" : 14,
-				"line" : 1474,
+				"line" : 4911,
 				"parent" : 91
 			},
 			{
@@ -982,9 +982,10 @@
 				7,
 				9,
 				11,
-				12,
+				13,
 				14,
-				15
+				16,
+				17
 			]
 		},
 		{
@@ -1197,8 +1198,12 @@
 	"dependencies" : 
 	[
 		{
+			"backtrace" : 82,
+			"id" : "appAppRover_copy_qml::@6890427a1f51a3e7e1df"
+		},
+		{
 			"backtrace" : 84,
-			"id" : "appAppRover_qmlimportscan::@6890427a1f51a3e7e1df"
+			"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 86,
@@ -1206,22 +1211,18 @@
 		},
 		{
 			"backtrace" : 88,
-			"id" : "appAppRover_copy_qml::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 90,
 			"id" : "appAppRover_copy_res::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 92,
-			"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df"
+			"id" : "appAppRover_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appAppRover_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 0,
 			"id" : "appAppRover_autogen::@6890427a1f51a3e7e1df"
-		},
-		{
-			"id" : "appAppRover_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "appAppRover::@6890427a1f51a3e7e1df",
@@ -1395,15 +1396,13 @@
 				2,
 				3,
 				4,
-				11,
-				12,
+				13,
 				14,
-				15,
 				16,
+				17,
 				18,
 				20,
-				31,
-				32,
+				22,
 				33,
 				34,
 				35,
@@ -1413,7 +1412,9 @@
 				39,
 				40,
 				41,
-				42
+				42,
+				43,
+				44
 			]
 		},
 		{
@@ -1423,8 +1424,9 @@
 				1,
 				7,
 				9,
-				10,
-				13
+				11,
+				12,
+				15
 			]
 		},
 		{
@@ -1433,29 +1435,28 @@
 			[
 				5,
 				6,
-				8
+				8,
+				10
 			]
 		},
 		{
 			"name" : "Resources",
 			"sourceIndexes" : 
 			[
-				17
+				19
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				19
+				21
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				21,
-				22,
 				23,
 				24,
 				25,
@@ -1463,7 +1464,9 @@
 				27,
 				28,
 				29,
-				30
+				30,
+				31,
+				32
 			]
 		}
 	],
@@ -1527,6 +1530,17 @@
 			"backtrace" : 107,
 			"compileGroupIndex" : 0,
 			"path" : "telemetryparser.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 107,
+			"path" : "udpconnection.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 107,
+			"compileGroupIndex" : 0,
+			"path" : "udpconnection.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{

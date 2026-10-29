@@ -152,19 +152,19 @@ CMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.obj: CMakeFi
 CMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.obj: appAppRover_autogen\mocs_compilation.cpp
 CMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/appAppRover.dir/appAppRover_autogen/mocs_compilation.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\appAppRover_autogen\mocs_compilation.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/appAppRover_autogen/mocs_compilation.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\appAppRover_autogen\mocs_compilation.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/appAppRover_autogen/mocs_compilation.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\appAppRover_autogen\mocs_compilation.cpp.s /c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\appAppRover_autogen\mocs_compilation.cpp"
 <<
 
@@ -172,19 +172,19 @@ CMakeFiles\appAppRover.dir\main.cpp.obj: CMakeFiles\appAppRover.dir\flags.make
 CMakeFiles\appAppRover.dir\main.cpp.obj: "C:\Rover\Qt app\AppRover\main.cpp"
 CMakeFiles\appAppRover.dir\main.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/appAppRover.dir/main.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\main.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\main.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\main.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\main.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/main.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\main.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\main.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\main.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/main.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\main.cpp.s /c "C:\Rover\Qt app\AppRover\main.cpp"
 <<
 
@@ -192,19 +192,19 @@ CMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.obj: CMakeFiles\
 CMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.obj: appapprover_qmltyperegistrations.cpp
 CMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/appAppRover.dir/appapprover_qmltyperegistrations.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /bigobj /showIncludes /FoCMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\appapprover_qmltyperegistrations.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/appapprover_qmltyperegistrations.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /bigobj -E "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\appapprover_qmltyperegistrations.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/appapprover_qmltyperegistrations.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /bigobj /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\appapprover_qmltyperegistrations.cpp.s /c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\appapprover_qmltyperegistrations.cpp"
 <<
 
@@ -212,19 +212,19 @@ CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.obj: .qt\rcc\qrc_qmake_AppRover.cpp
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.qt/rcc/qrc_qmake_AppRover.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.qt/rcc/qrc_qmake_AppRover.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.qt/rcc/qrc_qmake_AppRover.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp.s /c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_qmake_AppRover.cpp"
 <<
 
@@ -232,19 +232,19 @@ CMakeFiles\appAppRover.dir\rovercontroller.cpp.obj: CMakeFiles\appAppRover.dir\f
 CMakeFiles\appAppRover.dir\rovercontroller.cpp.obj: "C:\Rover\Qt app\AppRover\rovercontroller.cpp"
 CMakeFiles\appAppRover.dir\rovercontroller.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/appAppRover.dir/rovercontroller.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\rovercontroller.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\rovercontroller.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\rovercontroller.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\rovercontroller.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\rovercontroller.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/rovercontroller.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\rovercontroller.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\rovercontroller.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\rovercontroller.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\rovercontroller.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/rovercontroller.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\rovercontroller.cpp.s /c "C:\Rover\Qt app\AppRover\rovercontroller.cpp"
 <<
 
@@ -252,19 +252,19 @@ CMakeFiles\appAppRover.dir\telemetryparser.cpp.obj: CMakeFiles\appAppRover.dir\f
 CMakeFiles\appAppRover.dir\telemetryparser.cpp.obj: "C:\Rover\Qt app\AppRover\telemetryparser.cpp"
 CMakeFiles\appAppRover.dir\telemetryparser.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/appAppRover.dir/telemetryparser.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\telemetryparser.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\telemetryparser.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\telemetryparser.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\telemetryparser.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\telemetryparser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/telemetryparser.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\telemetryparser.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\telemetryparser.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\telemetryparser.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\telemetryparser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/telemetryparser.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\telemetryparser.cpp.s /c "C:\Rover\Qt app\AppRover\telemetryparser.cpp"
 <<
 
@@ -272,19 +272,19 @@ CMakeFiles\appAppRover.dir\udpconnection.cpp.obj: CMakeFiles\appAppRover.dir\fla
 CMakeFiles\appAppRover.dir\udpconnection.cpp.obj: "C:\Rover\Qt app\AppRover\udpconnection.cpp"
 CMakeFiles\appAppRover.dir\udpconnection.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/appAppRover.dir/udpconnection.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\udpconnection.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\udpconnection.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\udpconnection.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\udpconnection.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\udpconnection.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/udpconnection.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\udpconnection.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\udpconnection.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\udpconnection.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\udpconnection.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/udpconnection.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\udpconnection.cpp.s /c "C:\Rover\Qt app\AppRover\udpconnection.cpp"
 <<
 
@@ -292,19 +292,19 @@ CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qml
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.obj: .rcc\qmlcache\appAppRover_qmlcache_loader.cpp
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_qmlcache_loader.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_qmlcache_loader.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_qmlcache_loader.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp.s /c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_qmlcache_loader.cpp"
 <<
 
@@ -312,19 +312,19 @@ CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qml
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.obj: .rcc\qmlcache\appAppRover_Main_qml.cpp
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_Main_qml.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_Main_qml.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_Main_qml.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp.s /c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_Main_qml.cpp"
 <<
 
@@ -332,19 +332,19 @@ CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qml
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.obj: .rcc\qmlcache\appAppRover_RoverModel_qml.cpp
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_RoverModel_qml.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_RoverModel_qml.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.rcc/qmlcache/appAppRover_RoverModel_qml.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp.s /c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.rcc\qmlcache\appAppRover_RoverModel_qml.cpp"
 <<
 
@@ -352,19 +352,19 @@ CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.obj: .qt\rcc\qrc_appAppRover_raw_qml_0.cpp
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.obj: CMakeFiles\appAppRover.dir\compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.qt/rcc/qrc_appAppRover_raw_qml_0.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.obj.d --working-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug" --filter-prefix="Примечание: включение файла:  " -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.obj /FdCMakeFiles\appAppRover.dir\ /FS -c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.qt/rcc/qrc_appAppRover_raw_qml_0.cpp.i"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.i @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe > CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp"
 <<
 
 CMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appAppRover.dir/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.qt/rcc/qrc_appAppRover_raw_qml_0.cpp.s"
-	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\cl.exe @<<
+	C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\HostX64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\appAppRover.dir\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp.s /c "C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\.qt\rcc\qrc_appAppRover_raw_qml_0.cpp"
 <<
 
@@ -413,7 +413,7 @@ appAppRover.exe: C:\Qt\6.12.0\msvc2022_64\lib\Qt6EntryPointd.lib
 appAppRover.exe: appAppRover.exe.manifest
 appAppRover.exe: CMakeFiles\appAppRover.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable appAppRover.exe"
-	C:\Qt\Tools\CMake_64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\appAppRover.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\mt.exe --manifests appAppRover.exe.manifest -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1444~1.352\bin\HostX64\x64\link.exe /nologo @CMakeFiles\appAppRover.dir\objects1.rsp @<<
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\appAppRover.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\mt.exe --manifests appAppRover.exe.manifest -- C:\PROGRA~1\MICROS~4\18\COMMUN~1\VC\Tools\MSVC\1451~1.362\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\appAppRover.dir\objects1.rsp @<<
  /out:appAppRover.exe /implib:appAppRover.lib /pdb:"C:\Rover\Qt app\AppRover\build\Desktop_Qt_6_12_0_MSVC2022_64bit_Debug\appAppRover.pdb" /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:windows /MANIFEST:NO /MANIFESTUAC:NO  C:\Qt\6.12.0\msvc2022_64\lib\Qt6SerialPortd.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6Quick3Dd.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6Quick3DRuntimeRenderd.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6Quick3DUtilsd.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6Quickd.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6OpenGLd.lib user32.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6Qmld.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6Networkd.lib ws2_32.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6ShaderToolsd.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6Guid.lib d3d11.lib dxgi.lib dxguid.lib d3d12.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6Concurrentd.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6Cored.lib mpr.lib userenv.lib C:\Qt\6.12.0\msvc2022_64\lib\Qt6EntryPointd.lib shell32.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
