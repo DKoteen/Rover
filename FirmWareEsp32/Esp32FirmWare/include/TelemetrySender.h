@@ -6,14 +6,16 @@
 
 class TelemetrySender {
   public:
-    TelemetrySender(IPAddress ip, uint16_t port)
-        : destination_ip_(ip), destination_port_(port) {}
+    TelemetrySender(uint16_t port)
+        : destination_port_(port) {}
+
+    void setDestination(IPAddress ip);
 
     bool sendAttitude(float roll, float pitch, float yaw);
 
   private:
     WiFiUDP udp_;
 
-    IPAddress destination_ip_;
+    std::optional<IPAddress> destination_ip_;
     uint16_t destination_port_;
 };

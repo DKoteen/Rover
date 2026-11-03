@@ -1,6 +1,14 @@
 #include "TelemetrySender.h"
 
+void TelemetrySender::setDestination(IPAddress ip) {
+    destination_ip_ = ip;
+}
+
 bool TelemetrySender::sendAttitude(float roll, float pitch, float yaw) {
+    if (!destination_ip_.has_value()) {
+        return false;
+    }
+
     char packet[80];
 
     int length = snprintf(
@@ -21,7 +29,7 @@ bool TelemetrySender::sendAttitude(float roll, float pitch, float yaw) {
         return false;
     }
 
-    if (!udp_.beginPacket(destination_ip_, destination_port_)) {
+    if (!udp_.beginPacket(*destination_ip_, destination_port_)) {
         return false;
     }
 
