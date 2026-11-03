@@ -2,8 +2,8 @@
 
 set("CMAKE_BUILD_TYPE" "Debug" CACHE "STRING" "" FORCE)
 set("CMAKE_COLOR_DIAGNOSTICS" "ON" CACHE "BOOL" "" FORCE)
-set("CMAKE_CXX_COMPILER" "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/cl.exe" CACHE "FILEPATH" "" FORCE)
-set("CMAKE_C_COMPILER" "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/cl.exe" CACHE "FILEPATH" "" FORCE)
+set("CMAKE_CXX_COMPILER" "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/HostX64/x64/cl.exe" CACHE "FILEPATH" "" FORCE)
+set("CMAKE_C_COMPILER" "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/HostX64/x64/cl.exe" CACHE "FILEPATH" "" FORCE)
 set("CMAKE_GENERATOR" "NMake Makefiles JOM" CACHE "STRING" "" FORCE)
 set("CMAKE_PREFIX_PATH" "C:/Qt/6.12.0/msvc2022_64" CACHE "PATH" "" FORCE)
 set("CMAKE_PROJECT_INCLUDE_BEFORE" "C:/Rover/Qt app/AppRover/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake" CACHE "FILEPATH" "" FORCE)

@@ -87,10 +87,10 @@ clean: CMakeFiles\appAppRover_autogen.dir\clean
 # Target rules for target CMakeFiles/appAppRover.dir
 
 # All Build rule for target.
-CMakeFiles\appAppRover.dir\all: CMakeFiles\generate_finalqtconf_appAppRover.dir\all
+CMakeFiles\appAppRover.dir\all: CMakeFiles\appAppRover_copy_qml.dir\all
 CMakeFiles\appAppRover.dir\all: CMakeFiles\appAppRover_copy_res.dir\all
 CMakeFiles\appAppRover.dir\all: CMakeFiles\appAppRover_qmlimportscan.dir\all
-CMakeFiles\appAppRover.dir\all: CMakeFiles\appAppRover_copy_qml.dir\all
+CMakeFiles\appAppRover.dir\all: CMakeFiles\generate_finalqtconf_appAppRover.dir\all
 CMakeFiles\appAppRover.dir\all: CMakeFiles\generate_qmlls_build_ini_file.dir\all
 CMakeFiles\appAppRover.dir\all: CMakeFiles\appAppRover_autogen_timestamp_deps.dir\all
 CMakeFiles\appAppRover.dir\all: CMakeFiles\appAppRover_autogen.dir\all
@@ -589,10 +589,10 @@ CMakeFiles\appAppRover_qmlimportscan.dir\clean:
 # Target rules for target CMakeFiles/appAppRover_autogen_timestamp_deps.dir
 
 # All Build rule for target.
-CMakeFiles\appAppRover_autogen_timestamp_deps.dir\all: CMakeFiles\generate_finalqtconf_appAppRover.dir\all
+CMakeFiles\appAppRover_autogen_timestamp_deps.dir\all: CMakeFiles\appAppRover_copy_qml.dir\all
 CMakeFiles\appAppRover_autogen_timestamp_deps.dir\all: CMakeFiles\appAppRover_copy_res.dir\all
 CMakeFiles\appAppRover_autogen_timestamp_deps.dir\all: CMakeFiles\appAppRover_qmlimportscan.dir\all
-CMakeFiles\appAppRover_autogen_timestamp_deps.dir\all: CMakeFiles\appAppRover_copy_qml.dir\all
+CMakeFiles\appAppRover_autogen_timestamp_deps.dir\all: CMakeFiles\generate_finalqtconf_appAppRover.dir\all
 CMakeFiles\appAppRover_autogen_timestamp_deps.dir\all: CMakeFiles\generate_qmlls_build_ini_file.dir\all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAppRover_autogen_timestamp_deps.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\appAppRover_autogen_timestamp_deps.dir\depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAppRover_autogen_timestamp_deps.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\appAppRover_autogen_timestamp_deps.dir\build

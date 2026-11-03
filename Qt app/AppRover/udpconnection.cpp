@@ -48,6 +48,10 @@ bool UdpConnection::start(quint16 port) {
     return success;
 }
 
+bool UdpConnection::isConnected() {
+    return device_found_;
+}
+
 void UdpConnection::readPendingDatagrams() {
     while (socket_.hasPendingDatagrams()) {
 
@@ -69,6 +73,9 @@ void UdpConnection::readPendingDatagrams() {
 
             qDebug() << "ESP32 found:"
                      << datagram.senderAddress();
+
+            // сигнал на подключение "Включение"
+            emit connectedChanged();
 
             continue;
         }
@@ -106,6 +113,9 @@ void UdpConnection::sendDiscovery() {
 
 void UdpConnection::connectionTimeout() {
     device_found_ = false;
+    // сигнал на подключение "Выключение"
+    emit connectedChanged();
+
     device_ip_ = QHostAddress();
 
     qWarning() << "ESP32 connection lost";

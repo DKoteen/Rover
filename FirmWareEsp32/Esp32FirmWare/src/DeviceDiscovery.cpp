@@ -33,3 +33,7 @@ bool DeviceDiscovery::update() {
 
     return true;
 }
+
+std::optional<IPAddress> DeviceDiscovery::getDeviceIP() const {
+    return device_ip_;
+}

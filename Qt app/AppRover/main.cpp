@@ -37,8 +37,16 @@ int main(int argc, char *argv[])
         "roverController",
         &rover_controller
         );
+    engine.rootContext()->setContextProperty(
+        "udpConnection",
+        &udp_connect
+        );
 
+    // Запускаем обмен данными
     udp_connect.start();
+
+    // Иконка подключения
+
 
     QObject::connect(
         &engine,

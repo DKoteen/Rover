@@ -2,8 +2,27 @@
     "classes": [
         {
             "className": "UdpConnection",
-            "lineNumber": 7,
+            "lineNumber": 13,
             "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 16,
+                    "name": "connected",
+                    "notify": "connectedChanged",
+                    "override": false,
+                    "read": "isConnected",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false
+                }
+            ],
             "qualifiedClassName": "UdpConnection",
             "signals": [
                 {
@@ -15,8 +34,15 @@
                         }
                     ],
                     "index": 0,
-                    "lineNumber": 16,
+                    "lineNumber": 25,
                     "name": "dataReceived",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 26,
+                    "name": "connectedChanged",
                     "returnType": "void"
                 }
             ],

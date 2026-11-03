@@ -41,7 +41,9 @@ template <> constexpr inline auto UdpConnection::qt_create_metaobjectdata<qt_met
         "UdpConnection",
         "dataReceived",
         "",
-        "data"
+        "data",
+        "connectedChanged",
+        "connected"
     };
 
     QtMocHelpers::UintData qt_methods {
@@ -49,8 +51,12 @@ template <> constexpr inline auto UdpConnection::qt_create_metaobjectdata<qt_met
         QtMocHelpers::SignalData<void(const QByteArray &)>(1, 2, QMC::AccessPublic, QMetaType::Void, {{
             { QMetaType::QByteArray, 3 },
         }}),
+        // Signal 'connectedChanged'
+        QtMocHelpers::SignalData<void()>(4, 2, QMC::AccessPublic, QMetaType::Void),
     };
     QtMocHelpers::UintData qt_properties {
+        // property 'connected'
+        QtMocHelpers::PropertyData<bool>(5, QMetaType::Bool, QMC::DefaultPropertyFlags, 1),
     };
     QtMocHelpers::UintData qt_enums {
     };
@@ -73,12 +79,22 @@ void UdpConnection::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _i
     if (_c == QMetaObject::InvokeMetaMethod) {
         switch (_id) {
         case 0: _t->dataReceived((*reinterpret_cast<std::add_pointer_t<QByteArray>>(_a[1]))); break;
+        case 1: _t->connectedChanged(); break;
         default: ;
         }
     }
     if (_c == QMetaObject::IndexOfMethod) {
         if (QtMocHelpers::indexOfMethod<void (UdpConnection::*)(const QByteArray & )>(_a, &UdpConnection::dataReceived, 0))
             return;
+        if (QtMocHelpers::indexOfMethod<void (UdpConnection::*)()>(_a, &UdpConnection::connectedChanged, 1))
+            return;
+    }
+    if (_c == QMetaObject::ReadProperty) {
+        void *_v = _a[0];
+        switch (_id) {
+        case 0: *reinterpret_cast<bool*>(_v) = _t->isConnected(); break;
+        default: break;
+        }
     }
 }
 
@@ -101,13 +117,19 @@ int UdpConnection::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 1)
+        if (_id < 2)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 1;
+        _id -= 2;
     }
     if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 1)
+        if (_id < 2)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
+        _id -= 2;
+    }
+    if (_c == QMetaObject::ReadProperty || _c == QMetaObject::WriteProperty
+            || _c == QMetaObject::ResetProperty || _c == QMetaObject::BindableProperty
+            || _c == QMetaObject::RegisterPropertyMetaType) {
+        qt_static_metacall(this, _c, _id, _a);
         _id -= 1;
     }
     return _id;
@@ -117,5 +139,11 @@ int UdpConnection::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
 void UdpConnection::dataReceived(const QByteArray & _t1)
 {
     QMetaObject::activate<void>(this, &staticMetaObject, 0, nullptr, _t1);
+}
+
+// SIGNAL 1
+void UdpConnection::connectedChanged()
+{
+    QMetaObject::activate(this, &staticMetaObject, 1, nullptr);
 }
 QT_WARNING_POP

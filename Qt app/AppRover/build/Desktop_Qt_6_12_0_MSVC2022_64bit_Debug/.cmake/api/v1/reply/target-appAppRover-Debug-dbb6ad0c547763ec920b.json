@@ -31,11 +31,11 @@
 			"qt6_add_qml_module",
 			"qt_add_qml_module",
 			"add_dependencies",
-			"_qt_internal_write_qmldir_part",
 			"_qt_internal_qml_copy_files_to_build_dir",
 			"_qt_internal_scan_qml_imports",
 			"_qt_internal_generate_deploy_qml_imports_script",
 			"cmake_language",
+			"_qt_internal_write_qmldir_part",
 			"_qt_internal_write_deferred_qmlls_build_ini_file",
 			"add_compile_definitions",
 			"project",
@@ -531,18 +531,18 @@
 			},
 			{
 				"command" : 18,
-				"file" : 28,
-				"line" : 2,
-				"parent" : 6
+				"file" : 14,
+				"line" : 1049,
+				"parent" : 34
 			},
 			{
 				"command" : 17,
 				"file" : 14,
-				"line" : 312,
+				"line" : 3335,
 				"parent" : 81
 			},
 			{
-				"command" : 19,
+				"command" : 18,
 				"file" : 14,
 				"line" : 1055,
 				"parent" : 34
@@ -554,19 +554,19 @@
 				"parent" : 83
 			},
 			{
-				"command" : 22,
+				"command" : 21,
 				"file" : 0,
 				"line" : 832,
 				"parent" : 8
 			},
 			{
-				"command" : 21,
+				"command" : 20,
 				"file" : 0,
 				"line" : 832,
 				"parent" : 85
 			},
 			{
-				"command" : 20,
+				"command" : 19,
 				"file" : 14,
 				"line" : 5126,
 				"parent" : 86
@@ -578,15 +578,15 @@
 				"parent" : 87
 			},
 			{
-				"command" : 19,
-				"file" : 14,
-				"line" : 1049,
-				"parent" : 34
+				"command" : 22,
+				"file" : 28,
+				"line" : 2,
+				"parent" : 6
 			},
 			{
 				"command" : 17,
 				"file" : 14,
-				"line" : 3335,
+				"line" : 312,
 				"parent" : 89
 			},
 			{
@@ -1199,7 +1199,7 @@
 	[
 		{
 			"backtrace" : 82,
-			"id" : "generate_finalqtconf_appAppRover::@6890427a1f51a3e7e1df"
+			"id" : "appAppRover_copy_qml::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 84,
@@ -1211,7 +1211,7 @@
 		},
 		{
 			"backtrace" : 90,
-			"id" : "appAppRover_copy_qml::@6890427a1f51a3e7e1df"
+			"id" : "generate_finalqtconf_appAppRover::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 92,

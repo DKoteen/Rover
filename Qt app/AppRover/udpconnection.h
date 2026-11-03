@@ -13,13 +13,17 @@ struct Ports {
 class UdpConnection : public QObject {
     Q_OBJECT
 
+    Q_PROPERTY(bool connected READ isConnected NOTIFY connectedChanged)
+
 public:
     explicit UdpConnection(QObject* parent = nullptr);
 
     bool start(quint16 port = Ports::port_read_data);
+    bool isConnected();
 
 signals:
     void dataReceived(const QByteArray& data);
+    void connectedChanged();
 
 private:
     void readPendingDatagrams();

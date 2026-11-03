@@ -17,12 +17,41 @@ ApplicationWindow {
         anchors.margins: 18
         spacing: 14
 
-        Text {
-            id: titleText
-            text: "Ориентация полётного контроллера"
-            color: "#F2F5F8"
-            font.pixelSize: 26
-            font.bold: true
+        Row {
+            id: headerRow
+
+            width: parent.width
+            spacing: 20
+
+            Text {
+                id: titleText
+
+                text: "Ориентация полётного контроллера"
+                color: "#F2F5F8"
+                font.pixelSize: 26
+                font.bold: true
+            }
+
+            Rectangle {
+                width: 220
+                height: 40
+                radius: 8
+
+                color: udpConnection.connected
+                       ? "#216e45"
+                       : "#963b3b"
+
+                Text {
+                    anchors.centerIn: parent
+
+                    text: udpConnection.connected
+                          ? "ESP32 подключена"
+                          : "Нет связи с ESP32"
+
+                    color: "white"
+                    font.pixelSize: 15
+                }
+            }
         }
 
         View3D {
