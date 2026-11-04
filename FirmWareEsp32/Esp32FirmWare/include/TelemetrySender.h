@@ -11,7 +11,7 @@ class TelemetrySender {
 
     void setDestination(IPAddress ip);
 
-    bool sendAttitude(float roll, float pitch, float yaw);
+    bool sendAttitude(int sequence_number, float roll, float pitch, float yaw);
 
   private:
     WiFiUDP udp_;

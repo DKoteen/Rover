@@ -68,6 +68,7 @@ void UdpConnection::readPendingDatagrams() {
             device_found_ = true;
             device_ip_ = datagram.senderAddress();
 
+            packet_timer_.start();
             discovery_timer_.stop();
             connection_timer_.start(1000);
 
@@ -82,8 +83,12 @@ void UdpConnection::readPendingDatagrams() {
 
         if (device_found_ &&
             datagram.senderAddress() == device_ip_) {
-
+            qint64 time_send_data = packet_timer_.restart();
             connection_timer_.start(1000);
+
+            if (time_send_data > 200) {
+                qWarning() << "Packet interval:" << time_send_data << "ms";
+            }
 
             emit dataReceived(message);
         }

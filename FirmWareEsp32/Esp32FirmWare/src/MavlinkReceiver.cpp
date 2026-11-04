@@ -26,6 +26,8 @@ bool MavlinkReceiver::readAttitude() {
 
                 telemetry_.attitude_valid = true;
 
+                telemetry_.sequence_number++;
+
                 return true;
             }
         }

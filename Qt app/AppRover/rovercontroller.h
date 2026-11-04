@@ -13,7 +13,7 @@ class RoverController : public QObject {
 public:
     explicit RoverController(QObject* parent = nullptr);
 
-    Q_INVOKABLE void setAttitude(float roll, float pitch, float yaw);
+    Q_INVOKABLE void setAttitude(int sequence_number, float roll, float pitch, float yaw);
 
     float GetRoll() const;
     float GetPitch() const;

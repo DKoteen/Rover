@@ -4,7 +4,7 @@ void TelemetrySender::setDestination(IPAddress ip) {
     destination_ip_ = ip;
 }
 
-bool TelemetrySender::sendAttitude(float roll, float pitch, float yaw) {
+bool TelemetrySender::sendAttitude(int sequence_number, float roll, float pitch, float yaw) {
     if (!destination_ip_.has_value()) {
         return false;
     }
@@ -14,7 +14,8 @@ bool TelemetrySender::sendAttitude(float roll, float pitch, float yaw) {
     int length = snprintf(
         packet,
         sizeof(packet),
-        "ATTITUDE:%.2f,%.2f,%.2f\n",
+        "ATTITUDE:%lu,%.2f,%.2f,%.2f\n",
+        sequence_number,
         roll,
         pitch,
         yaw

@@ -1,10 +1,13 @@
 #include "rovercontroller.h"
+#include <QDebug>
 
 RoverController::RoverController(QObject* parent)
     : QObject(parent) {
 }
 
-void RoverController::setAttitude(float roll, float pitch, float yaw) {
+void RoverController::setAttitude(int sequence_number, float roll, float pitch, float yaw) {
+    qDebug() << sequence_number;
+
     if (state_.roll != roll) {
         state_.roll = roll;
         emit rollChanged();

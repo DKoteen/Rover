@@ -4,6 +4,7 @@
 #include <QByteArray>
 #include <QUdpSocket>
 #include <QTimer>
+#include <QElapsedTimer>
 
 struct Ports {
     static constexpr quint16 port_read_data = 45454;
@@ -33,6 +34,8 @@ private:
     QUdpSocket socket_;
     QTimer discovery_timer_;
     QTimer connection_timer_;
+
+    QElapsedTimer packet_timer_;
 
     bool device_found_ = false;
 

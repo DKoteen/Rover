@@ -35,20 +35,22 @@ void TelemetryParser::parseLine(const QByteArray& line) {
     if (line.startsWith("ATTITUDE:")) {
         QByteArray values = line.mid(9);
         QList list = values.split(',');
-        if (list.size() != 3) {
+        if (list.size() != 4) {
             return;
         }
+        bool okSequenceNumber = false;
         bool okRoll = false;
         bool okPitch = false;
         bool okYaw = false;
-        float roll = list[0].toFloat(&okRoll);
-        float pitch = list[1].toFloat(&okPitch);
-        float yaw = list[2].toFloat(&okYaw);
+        int sequence_number = list[0].toInt(&okSequenceNumber);
+        float roll = list[1].toFloat(&okRoll);
+        float pitch = list[2].toFloat(&okPitch);
+        float yaw = list[3].toFloat(&okYaw);
 
-        if (!okRoll || !okPitch || !okYaw) {
+        if (!okSequenceNumber || !okRoll || !okPitch || !okYaw) {
             return;
         }
 
-        emit attitudeReceived(roll, pitch, yaw);
+        emit attitudeReceived(sequence_number, roll, pitch, yaw);
     }
 }

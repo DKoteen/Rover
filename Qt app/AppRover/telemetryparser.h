@@ -12,7 +12,7 @@ public:
     void addData(const QByteArray& data);
 
 signals:
-    void attitudeReceived(float roll, float pitch, float yaw);
+    void attitudeReceived(int sequence_number, float roll, float pitch, float yaw);
 
 private:
     void parseLine(const QByteArray& line);
